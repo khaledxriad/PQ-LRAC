@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Post-Quantum Secure and Leakage-Resilient Access Control for IoT Outsourcing: reference implementation and benchmarks"
+type: software
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    affiliation: "King Faisal University"
+version: "1.0.0"
+date-released: "2026-11-17"
+license: MIT
+repository-code: "https://github.com/khaledxriad/PQ-LRAC"
+doi: "TODO-ZENODO-DOI"
+keywords:
+  - post-quantum cryptography
+  - attribute-based encryption
+  - lattice-based cryptography
+  - leakage resilience
+  - Internet of Things
