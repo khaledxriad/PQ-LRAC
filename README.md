@@ -1,8 +1,10 @@
 # Post-Quantum Secure and Leakage-Resilient Access Control for IoT Outsourcing
 
+[![DOI](https://zenodo.org/badge/1461452523.svg)](https://doi.org/10.5281/zenodo.24311607)
+
 Reference prototype accompanying the manuscript *"Post-Quantum Secure and Leakage-Resilient Access Control for IoT Outsourcing: A Lattice-Based Approach"* (Khaled Riad, King Faisal University; *Scientific Reports*).
 
-> **Archived release:** Zenodo DOI `TODO-ZENODO-DOI` (replace after the first GitHub release is archived).
+> **Archived release:** Zenodo DOI [10.5281/zenodo.24311607](https://doi.org/10.5281/zenodo.24311607) (all versions; v1.0.0: [10.5281/zenodo.24311608](https://doi.org/10.5281/zenodo.24311608)).
 
 **Please read [`docs/DEVIATIONS.md`](docs/DEVIATIONS.md) first.** This is a Python prototype of the paper's algorithms with a concrete, working instantiation. It is not the C / ARM Cortex-M implementation behind the timings in Tables 1-5, it omits trapdoor sampling, noise flooding and the zero-knowledge proof, and it is not collusion resistant.
 
